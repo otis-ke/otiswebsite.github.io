@@ -1,6 +1,5 @@
 
 # Vincent Otis Portfolio Website
-jdjdjdj
 
 Vincent Otis Portfolio Website is a showcase of my projects, skills, and experience as a software engineer.
 
