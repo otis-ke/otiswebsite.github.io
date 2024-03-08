@@ -14,7 +14,7 @@ Vincent Otis Portfolio Website is a showcase of my projects, skills, and experie
 
 ## About
 
-I'm Vincent Otis, a dedicated software engineer  based in Nairobi, Kenya. I'm passionate about creating efficient and user-centric applications.
+I'm Vincent Otis, a dedicated software engineer based in Nairobi, Kenya. I'm passionate about creating efficient and user-centric applications.
 
 ## Projects
 
