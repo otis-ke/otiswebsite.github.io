@@ -61,7 +61,7 @@ Feel free to reach out to me:
 - WhatsApp: [+254769212618](https://api.whatsapp.com/send?phone=254769212618)
 - LinkedIn: [Vincent Otis](https://www.linkedin.com/in/vincent-otis-1315b0235)
 
----
+--
 
 Designed and developed by Vincent Otis.
 
